@@ -187,3 +187,5 @@ For example, the **startTimestamp** is equal to `null` whilst the **endTimestamp
 ### This is one of many use cases I've experimented with throughout development, preview shown below.
 
 ![Discord](./screenshots/CustomStatus.png)
+
+# ORIGINAL CODE FROM [Jxyme](https://github.com/Jxyme). Don't forget to ⭐ him!
